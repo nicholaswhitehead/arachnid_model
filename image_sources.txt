@@ -1,0 +1,24 @@
+Images for this dataset were sourced from many locations around the web.
+The bulk of each set was scraped from https://spiderid.com/
+The web-scraping program I wrote for SpiderID.com is included in this directory (spiderid_scrape.py).
+
+Additional images were sourced from the following online databases:
+https://bugguide.net/node/view/1954
+https://www.insectidentification.org/spiders.php
+https://www.insectimages.org/browse/taxthumb.cfm?order=12
+
+Some images were captured as screenshots from the following YouTube videos:
+https://www.youtube.com/watch?v=n5Cmml8oeRo
+https://www.youtube.com/watch?v=Yf9AYvIVt54
+https://www.youtube.com/watch?v=xgLWBrTdUo0
+https://www.youtube.com/watch?v=FklklqjoF54
+https://www.youtube.com/watch?v=DQrrpCAy0SQ
+https://www.youtube.com/watch?v=jNnXA6i4McA
+https://www.youtube.com/watch?v=NpJNeGqExrc
+https://www.youtube.com/watch?v=MrGn9hQjrY8
+https://www.youtube.com/watch?v=W42xShK0h8o
+https://www.youtube.com/watch?v=Q7HXfgZ2Qmw
+https://www.youtube.com/watch?v=XKqWnOtbSr8
+https://www.youtube.com/watch?v=zxvtxhFf85c
+https://www.youtube.com/watch?v=WIoEu9uxEUw
+https://www.youtube.com/watch?v=s_y1bd6VLK8
